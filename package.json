@@ -28,13 +28,13 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/foxer666/node-stratum-pool.git"
+        "url": "https://github.com/GRinvest/node-stratum-pool-x21s.git"
     },
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/GRinvest/node-multi-hashing-x21s.git"
     },
     "engines": {
         "node": ">=8.1.4"
